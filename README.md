@@ -35,7 +35,14 @@ The ToDo application allows users to manage their daily tasks efficiently. It pr
 - Maven
 - MySQL Database
 
-#### **2. Clone the Repository**
+#### **2. Demo Video**
+
+
+
+https://github.com/user-attachments/assets/dd97df0c-3454-411c-af85-472959e59c44
+
+
+#### **3. Clone the Repository**
 ```bash
 git clone https://github.com/chinmoypaul8897/To-Do-Application
 cd todoapp
